@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "my name is Hanson Zhang.On my way to change"
+description: "my name is Enoch.On my way to change"
 header-img: "img/green.jpg"
 ---
 
@@ -20,7 +20,7 @@ header-img: "img/green.jpg"
 
 
 
-# 生命在于运动，思维源于学习，技术源于积累。
+# 思维源于学习，能力源于实践，技术源于积累。
 
 
 
