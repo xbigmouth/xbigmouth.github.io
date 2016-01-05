@@ -2,13 +2,13 @@
 title: Hanson
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "Enoch|Think Different"  
 baseurl: ""
 url: "http://zyphs21.github.io"  
 
 # About/contact
 owner: 
-  name: "邢文强"
+  name: "Enoch"
   email: xwqin2015@163.com
   bio: ""
 
@@ -44,16 +44,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "hanson"
+      author: "enoch"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hanson
+    short_name : enoch
   disqus :
-      short_name : hanson
+      short_name : enoch
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
